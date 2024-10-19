@@ -4,7 +4,7 @@
 ## Annual Fiduciary Review
 
 | **Entity**                            | **Industry**                    | **Engagement Details**                                              | **Role Played** | **Brief Description**                                   | **Reporting Period/Date** |
-|---------------------------------------|----------------------------------|--------------------------------------------------------------------|----------------|--------------------------------------------------------|---------------------------|
+|---------------------------------------|----------------------------------|--------------------------------------------------------------------|----------------:|:--------------------------------------------------------|---------------------------|
 | World Bank Group (WBG)                  | Banking                   | Annual Fiduciary Review of PEDP4, DPE (FM & PPR)                                       | Managerial     | Conducted a comprehensive Annual Fiduciary Review for the Fourth Primary Education Development Program (PEDP4) under the Department of Primary Education (DPE), focusing on financial management (FM) and post procurement review (PPR) to ensure accountability and effective resource utilization | FY 2021-22              |
 
 ---
