@@ -1,5 +1,4 @@
-# clients
-# Annexure: List of Key Clients Served
+# List of Key Clients Served
 
 ## Annual Fiduciary Review
 
